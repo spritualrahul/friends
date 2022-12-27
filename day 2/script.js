@@ -11,7 +11,7 @@ function login(){
 
     if(loginuser===newuser  && loginpassword===newpassword){
         alert("Login Successfull");
-        window.location.href="home.html";
+        window.location.href="./home.html";
 
     }
     else{
